@@ -60,7 +60,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/AxitTiwari/Axit-Tiwari/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AxitTiwari/AxitTiwari/output/github-contribution-grid-snake.svg)
 
 --
 
