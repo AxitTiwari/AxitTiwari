@@ -62,7 +62,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/AxitTiwari/AxitTiwari/output/github-contribution-grid-snake.svg)
 
---
+---
 
 ## Leetcode Profile
 
