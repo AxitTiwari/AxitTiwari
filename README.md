@@ -1,44 +1,45 @@
-<!-- 🌊 Animated Header -->
+<!-- 🌌 HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Axit%20Tiwari&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Axit%20Tiwari&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- 🔥 Typing Animation -->
+<!-- ⚡ TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Axit+Tiwari;B.Tech+CSE+Student;DSA+Enthusiast;Future+AI%2FML+Engineer;Consistency+is+Power🔥"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Hi+I'm+Axit+Tiwari;DSA+Enthusiast;Future+AI%2FML+Engineer;Consistency+is+Power🔥"/>
 </p>
 
-<!-- 👀 Visitor Counter -->
+<!-- 👁 VISITS -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AxitTiwari&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AxitTiwari&label=Profile%20Views&color=00F7FF&style=flat"/>
 </p>
 
 ---
 
-# 👋 About Me
+# 👨‍💻 ABOUT ME
 
 💻 B.Tech CSE Student
 🚀 Passionate about **DSA, Problem Solving & AI/ML**
-🧠 Curious mind — love understanding how things actually work
-🎯 Goal: Become a **top AI/ML Engineer**
+🧠 Curious about how systems actually work
+🎯 Goal → Become **Top AI/ML Engineer**
 
 ---
 
-# 🧠 Current Focus
+# ⚡ CURRENT FOCUS
 
 * 🔥 Mastering Data Structures & Algorithms
-* ⚡ Solving problems daily
-* 🧩 Building strong logic & fundamentals
+* ⚡ Daily problem solving
+* 🧩 Strong fundamentals
+* 🚀 Building real-world skills
 
 ---
 
-# ⚙️ Tech Stack
+# 🧰 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode&theme=dark"/>
 </p>
 
 ---
@@ -71,56 +72,32 @@
 
 ---
 
-## Leetcode Profile
+# 🧠 LEETCODE
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Axit_Tiwari?theme=dark&font=Karma&ext=heatmap)
-
-..
-
-## 📌 Current Focus
-
-* 🔥 Mastering DSA
-* 🧠 Improving problem-solving skills
-* ⚡ Building strong coding fundamentals
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Axit_Tiwari?theme=dark&font=Karma&ext=heatmap"/>
+</p>
 
 ---
 
-## 🚀 Projects
+# 🚀 PROJECTS
 
-🔹 Coming Soon... (big things cooking 🔥)
+🚧 Coming Soon... (building something big 🔥)
 
 ---
 
-# 🔗 Connect With Me
+# 🌐 CONNECT
 
 <p align="center">
   <a href="mailto:axittiwarai0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-# ⚡ Quote
+# ⚡ QUOTE
 
 > ⭐ *"Consistency beats talent when talent doesn’t stay consistent."*
 
 ---
-
-<!-- 💥 END -->
-
-
-<!--
-**AxitTiwari/AxitTiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
