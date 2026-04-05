@@ -1,38 +1,45 @@
+<!-- 🌊 Animated Header -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Axit%20Tiwari&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <!-- 🔥 Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Axit+Tiwari;B.Tech+CSE+Student;DSA+Enthusiast;Future+AI%2FML+Engineer;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Axit+Tiwari;B.Tech+CSE+Student;DSA+Enthusiast;Future+AI%2FML+Engineer;Consistency+is+Power🔥"/>
+</p>
+
+<!-- 👀 Visitor Counter -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AxitTiwari&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Axit Tiwari
+# 👋 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=120&section=header"/>
-
-💻 B.Tech CSE Student | DSA Enthusiast | Future AI/ML Engineer
-🚀 Passionate about problem solving, logic, and building real-world projects
-
----
-
-## 🧠 About Me
-
-* 🔍 Curious about how things work (code, systems, life)
-* 💡 Strong focus on Data Structures & Algorithms
-* 🌱 Currently learning advanced DSA & problem solving
-* 🎯 Goal: Become an AI/ML Engineer
+💻 B.Tech CSE Student
+🚀 Passionate about **DSA, Problem Solving & AI/ML**
+🧠 Curious mind — love understanding how things actually work
+🎯 Goal: Become a **top AI/ML Engineer**
 
 ---
 
-## ⚙️ Tech Stack
+# 🧠 Current Focus
 
-* 💻 Languages: C, C++, Python
-* 📚 Core: Data Structures & Algorithms, Dynamic Programming
-* 🧰 Tools: Git, GitHub, VS Code
+* 🔥 Mastering Data Structures & Algorithms
+* ⚡ Solving problems daily
+* 🧩 Building strong logic & fundamentals
 
 ---
 
-## 🚀 Projects
+# ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
+</p>
 
 ---
 
@@ -78,13 +85,29 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🚀 Projects
 
-* 📧 Email: [axittiwarai0@gmail.com](mailto:axittiwarai0@gmail.com)
+🔹 Coming Soon... (big things cooking 🔥)
 
 ---
 
-⭐ *"Consistency beats talent when talent doesn’t stay consistent."*
+# 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:axittiwarai0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# ⚡ Quote
+
+> ⭐ *"Consistency beats talent when talent doesn’t stay consistent."*
+
+---
+
+<!-- 💥 END -->
 
 
 <!--
