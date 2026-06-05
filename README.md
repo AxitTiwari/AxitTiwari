@@ -1,103 +1,61 @@
-<!-- 🌌 HEADER -->
+### Axit Tiwari
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Axit%20Tiwari&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<!-- ⚡ TYPING -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Hi+I'm+Axit+Tiwari;DSA+Enthusiast;Future+AI%2FML+Engineer;Consistency+is+Power🔥"/>
-</p>
-
-<!-- 👁 VISITS -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AxitTiwari&label=Profile%20Views&color=00F7FF&style=flat"/>
-</p>
+B.Tech Computer Science · Dehradun, India  
+Focused on Data Structures & Algorithms, with a long-term interest in AI/ML systems.
 
 ---
 
-# 👨‍💻 ABOUT ME
+**Currently**
 
-💻 B.Tech CSE Student
-🚀 Passionate about **DSA, Problem Solving & AI/ML**
-🧠 Curious about how systems actually work
-🎯 Goal → Become **Top AI/ML Engineer**
-
----
-
-# ⚡ CURRENT FOCUS
-
-* 🔥 Mastering Data Structures & Algorithms
-* ⚡ Daily problem solving
-* 🧩 Strong fundamentals
-* 🚀 Building real-world skills
+- Sharpening problem-solving fundamentals through daily DSA practice
+- Building depth in C++/Python before expanding into ML frameworks
+- Working toward a first significant open-source or personal project
 
 ---
 
-# 🧰 TECH STACK
+**Technical Skills**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode&theme=dark"/>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AxitTiwari\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AxitTiwari\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AxitTiwari\&layout=compact\&theme=tokyonight)
+| Area | Tools |
+|---|---|
+| Languages | C, C++, Python |
+| Version Control | Git, GitHub |
+| Editor | VS Code |
 
 ---
 
-## 📈 Contribution Graph
+**Goals**
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AxitTiwari\&theme=tokyo-night)
-
----
-
-## 🚀 Profile Summary
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AxitTiwari\&theme=tokyonight)
+- [ ] Reach 200 problems solved on LeetCode
+- [ ] Complete a structured DSA roadmap (Arrays → Graphs → DP)
+- [ ] Build and ship one real project
+- [ ] Start exploring ML fundamentals (NumPy, Pandas, scikit-learn)
 
 ---
 
-## 🐍 Contribution Snake
+**Competitive Programming**
 
-![Snake animation](https://raw.githubusercontent.com/AxitTiwari/AxitTiwari/output/github-contribution-grid-snake.svg)
-
----
-
-# 🧠 LEETCODE
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Axit_Tiwari?theme=dark&font=Karma&ext=heatmap"/>
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Axit__Tiwari-orange?style=flat-square&logo=leetcode)](https://leetcode.com/Axit_Tiwari/)
 
 ---
 
-# 🚀 PROJECTS
+**GitHub Stats**
 
-🚧 Coming Soon... (building something big 🔥)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AxitTiwari&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=333333&icon_color=555555&bg_color=ffffff)
 
----
-
-# 🌐 CONNECT
-
-<p align="center">
-  <a href="mailto:axittiwarai0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-</p>
+![Streak](https://streak-stats.demolab.com?user=AxitTiwari&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
-# ⚡ QUOTE
+**Languages Used**
 
-> ⭐ *"Consistency beats talent when talent doesn’t stay consistent."*
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AxitTiwari&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333)
 
 ---
+
+**Reach Out**
+
+[axittiwarai0@gmail.com](mailto:axittiwarai0@gmail.com)
+
+---
+
+*"A year from now, I'll wish I had started today."*
