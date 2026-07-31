@@ -54,15 +54,7 @@ I'm a Computer Science student passionate about building strong problem-solving 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AxitTiwari\&show_icons=true\&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=AxitTiwari\&hide_border=true)
-
----
-
-## 📚 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxitTiwari\&layout=compact\&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=AxitTiwari&hide_border=true)
 
 ---
 
