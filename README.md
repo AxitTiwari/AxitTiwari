@@ -1,4 +1,4 @@
-# Hi there, I'm Axit Tiwari 👋
+# Hey Beautiful, I'm Axit Tiwari 👋
 
 ### B.Tech CSE (AI/ML) '28 • Dehradun, India
 
